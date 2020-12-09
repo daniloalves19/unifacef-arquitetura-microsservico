@@ -1,0 +1,15 @@
+----------------------------------------------------------
+Atividade 4 - Execução
+----------------------------------------------------------
+https://www.rabbitmq.com/tutorials/tutorial-six-python.html
+
+* demonstrar
+- ativar server side
+python3 rpc_server.py
+
+- enviando requisição
+python3 rpc_client.py
+
+
+* pelo arquivo testefor.ps1, serão criados 200 requisições
+> powershell.exe -file testefor.ps1
